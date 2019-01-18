@@ -26,12 +26,12 @@ module.exports = {
       label: "Twitter",
       url: "https://twitter.com/MatomeAdmin",
       iconClassName: "fa fa-twitter"
-    },
-    {
+    }
+    /*{
       label: "Email",
       url: "mailto:admin001@matome.fun",
       iconClassName: "fa fa-envelope"
-    }
+    }*/
   ],
   copyright: "Copyright © 2019" // Copyright string for the footer of the website and RSS feed.
 };
