@@ -7,17 +7,11 @@ category: asdf
 tags:
   - asdfa
 ---
-
-
-
-
-
-
 <style>
 
 .read-more-state {
 
-  display: none;
+  display: block;
 
 }
 
@@ -49,7 +43,7 @@ tags:
 
 
 
-.read-more-state ~ .read-more-trigger:before {
+.read-more-state ~ p .read-more-trigger:before {
 
   content: 'Show more';
 
@@ -57,7 +51,7 @@ tags:
 
 
 
-.read-more-state:checked ~ .read-more-trigger:before {
+.read-more-state:checked ~ p .read-more-trigger:before {
 
   content: 'Show less';
 
@@ -121,11 +115,10 @@ p {
 
 <label for="post-1" class="read-more-trigger"></label>
 
-</div><div>
+</div>
+<div>
 
 <input type="checkbox" class="read-more-state" id="post-2" />
-
-
 
 <ul class="read-more-wrap">
 <li>lorem</li>
@@ -133,5 +126,7 @@ p {
 <li class="read-more-target">lorem 3</li>
 <li class="read-more-target">lorem 4</li>
 </ul>
-<label for="post-2" class="read-more-trigger"></label>
+
+<label for="post-2" class="read-more-trigger"></label>
+
 </div>
