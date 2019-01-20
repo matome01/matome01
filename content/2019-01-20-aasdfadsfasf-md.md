@@ -1,8 +1,8 @@
 ---
 title: aasdfadsfasf
-date: 2019-01-18T16:52:01.327Z
+date: 2019-01-19T16:52:01.327Z
 cover: /assets/1.jpg
-slug: rf2asdf
+slug: rf3
 category: asdf
 tags:
   - asdfa
