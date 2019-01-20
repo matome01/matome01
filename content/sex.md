@@ -11,6 +11,10 @@ asfdsadfasdfawea
 
 ![adsf](/assets/0e5c8a546ead8247bc9be693bf19df8e.jpeg)
 
-
-
 fasdfasdfasdfsdfa
+
+<details>
+
+<summary>Summary</summary>Detailed content goes here
+
+</details>
