@@ -25,7 +25,6 @@ tags:
 
   font-size: 0;
 
-  transition: .25s ease;
 
 }
 
