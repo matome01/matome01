@@ -19,7 +19,7 @@ module.exports = {
   userLocation: "North Pole, Earth", // User location to display in the author segment.
   userAvatar: "/logos/blob-shape.svg", // User avatar to display in the author segment.
   userDescription:
-    "유저디스크립션", // User description to display in the author segment.
+    "의역, 오역, 실수 등 양해 부탁드립니다.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
