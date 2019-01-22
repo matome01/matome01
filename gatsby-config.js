@@ -75,8 +75,14 @@ module.exports = {
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     "gatsby-plugin-catch-links",
-    "gatsby-plugin-netlify-cms",
+    //"gatsby-plugin-netlify-cms",
     "gatsby-plugin-twitter",
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        publicPath: `p.o339w_-iid3vp-neogeo`
+      },
+    },
     {
       resolve: "gatsby-plugin-sitemap",
       options: {
