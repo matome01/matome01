@@ -16,6 +16,10 @@ import config from "../../data/SiteConfig";
 import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
+import Postbody from "../components/Mycustom/Postbody"
+/* import alljson from "../../content/大阪って韓国同様パクリ文化で全世界に迷惑かけてるよな.json" */
+import alljson from "../../content/結婚はしたくないけど子どもは欲しい奴ｗｗｗ.json"
+
 export default class PostTemplate extends React.Component {
   constructor(props) {
     super(props);
@@ -77,6 +81,8 @@ export default class PostTemplate extends React.Component {
                 <h1 className="md-display-2 post-header">{post.title}</h1>
                 <PostInfo postNode={postNode} />
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+                <h1>================</h1>
+                <Postbody alljson={alljson}/>
               </CardText>
               <div className="post-meta">
                 <PostTags tags={post.tags} />
