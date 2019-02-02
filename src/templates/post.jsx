@@ -17,7 +17,7 @@ import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
 import Postbody from "../components/Mycustom/Postbody"
-import alljson from "../../json_files/結婚はしたくないけど子どもは欲しい奴ｗｗｗ.json"
+import alljson from "../../json_files/no_marriage_but_son.json"
 
 export default class PostTemplate extends React.Component {
   constructor(props) {
