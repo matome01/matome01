@@ -206,6 +206,12 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: 'gatsby-plugin-html-attributes',
+      options: {
+        lang: 'ko'
+      }
     }
   ]
 };
