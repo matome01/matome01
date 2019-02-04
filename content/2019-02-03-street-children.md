@@ -90,7 +90,7 @@ tags:
 それで、結局、その子は自分の部屋に居着いた</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">60. ID: <span>CHy</span> <span title="2019/01/29(火)18:19:30">2019/01/29 18:19</span></div><div style="padding-top: 10px;"><p class="content">일본이면 방치된 아이<sup>(放置子)</sup> 어쩌고 말해지겠지...<br><span class="jp">日本だと放置子言われるんやろうね…</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">61. ID: <span class="op">Gve</span> <span title="2019/01/29(火)18:21:26">2019/01/29 18:21</span></div><div style="padding-top: 10px;"><p class="content">집안일을 해 주는 것도 아니고, 뭔가 해 주는 것도 아니지만,
 뭔가를 가져간다거나 그런건 안했으니까, 어쩔수 없다고 생각해 반쯤 포기했었다
 참고로, 어른은 거의 전원 신경쓰지 않았다<sup>(スルー)</sup>
-기숙사의 경비원만은 「아무에게도 말 안할테니 돈을 줘」라고 해서 300루블<sup>(약 5,000원)</sup>정도 뺏겼다
+기숙사의 경비원만은 「아무에게도 말 안할테니 돈을 줘」라고 해서 300루블<sup>(약 5,100원)</sup>정도 뺏겼다
 그래도, 그것뿐으로 거의 신경쓰여지지 않았다<br><span class="jp">家事をしてくれるわけでもないし、何かしてくれるわけじゃないんだけど、
 何かを捕るとかそういうことはしなかったので、もう仕方ないと思って半ば諦めてた
 ちなみに、大人はほとんど全員スルー
@@ -113,7 +113,7 @@ tags:
 글쓴이처럼 좋은사람이 있는 나라에 가고싶어!라든지가 아닌건가.<br><span class="jp">真ん中から後ろ見てゲンナリしたわ。
 1さんみたいないい人がいる国に行きたい！とかじゃないのか。</span> </p></div><div class="content2"><div class="id">78. ID: <span class="op">Gve</span> <span title="2019/01/29(火)18:32:53">2019/01/29 18:32</span></div><div style="padding-top: 10px;"><p class="content">뭐 이런거겠지 라고 생각해...<br><span class="jp">こんなもんだろなぁと思う…</span> </p></div></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">79. ID: <span>0jL</span> <span title="2019/01/29(火)18:33:25">2019/01/29 18:33</span></div><div style="padding-top: 10px;"><p class="content">몇백엔으로 경비원도 묵인이고 유녀<sup>(幼女: 약 6, 7살 미만의 어린 여성)</sup>와 동거라든지 부러워서 죽을것같다(´・ω・`)。
 맘껏 엿보기 잖아(´・ω・`)。<br><span class="jp">数百円で警備員も黙認で幼女と同棲とか羨ましくて憤死しそう(´・ω・`)。
-見抜きし放題やんけ(´・ω・`)。</span> </p></div><div class="content2"><div class="id">81. ID: <span class="op">Gve</span> <span title="2019/01/29(火)18:35:22">2019/01/29 18:35</span></div><div style="padding-top: 10px;"><p class="content">경찰관이 매춘이라든가 매춘알선을 200p<sup>(약 3,340원)</sup> 안되는 뇌물로 못본 체 할 정도의 치안의 나쁨
+見抜きし放題やんけ(´・ω・`)。</span> </p></div><div class="content2"><div class="id">81. ID: <span class="op">Gve</span> <span title="2019/01/29(火)18:35:22">2019/01/29 18:35</span></div><div style="padding-top: 10px;"><p class="content">경찰관이 매춘이라든가 매춘알선을 200p<sup>(약 3,400원)</sup> 안되는 뇌물로 못본 체 할 정도의 치안의 나쁨
 그 아이는 유녀는 아니지만, 그런 생각은 정말로 들지 않았다
 상당히 어린애였고<br><span class="jp">警察官が売春とか売春斡旋を200p弱の賄賂で見逃すくらいの治安の悪さ
 その子は幼女ではないけど、そういう気は本当に起こらなかった
