@@ -56,7 +56,14 @@ module.exports = {
           },
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-autolink-headers",
-          "gatsby-remark-prismjs"
+          "gatsby-remark-prismjs",
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener nofollow noreferrer"
+            }
+          }
         ]
       }
     },
