@@ -6,7 +6,7 @@ export default function Singlecommentsbox({comments, comment_num, comment_dateti
   return (
     <div className={className ? className : "content1"}>
       <div className="id">
-          {comment_num}. ID: <span className={thread_opId.includes(comment_authorId)? "op" : null}>{comment_authorId}</span> <span title={comment_datetime}>{`${comment_datetime.slice(0, 10)} ${comment_datetime.slice(13, -3)}`}</span> 
+          {comment_num}. ID: <span className={thread_opId.includes(comment_authorId)? "op" : null}>{comment_authorId}</span> <span title={comment_datetime}>{`${comment_datetime.match(/(\d{4})\/(\d{2})\/(\d{2})/)[0]} ${comment_datetime.match(/(\d{2}):(\d{2})/)[0]}`}</span> 
       </div>
       <div style={{paddingTop: 10}}>
           <p className="content">
