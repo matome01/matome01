@@ -17,7 +17,7 @@ import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
 import Postbody from "../components/Mycustom/Postbody"
-import alljson from "../../json_files/hashimoto.json"
+import alljson from "../../json_files/japan_smartphone.json"
 
 export default class PostTemplate extends React.Component {
   constructor(props) {
