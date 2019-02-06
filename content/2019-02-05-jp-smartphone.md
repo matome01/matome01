@@ -3,7 +3,7 @@ title: 왜 일본 메이커는 세계 패권을 쥘 스마트폰을 만들 수 �
 date: 2019-02-05T11:05:32.400Z
 cover: /assets/20190205/20190205-jp-smartphone1.jpg
 slug: 20190205-jp-smartphone
-category: 잡담
+category: IT
 tags:
   - 잡담
   - 기술
@@ -20,19 +20,19 @@ tags:
 内需死ぬけど</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">13. ID: <span>hgN</span> <span title="2019/02/04(月)09:33:39">2019/02/04 09:33</span></div><div style="padding-top: 10px;"><p class="content">일본인은 스스로 1부터 만드는것이 무리라고 생각해<br><span class="jp">日本人は自分で1から作るの無理やと思うわ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">14. ID: <span>RwT</span> <span title="2019/02/04(月)09:33:45">2019/02/04 09:33</span></div><div style="padding-top: 10px;"><p class="content">별로 해외에서의 수요를 이해하고 있지 않다는 감은 있다<br><span class="jp">あまり海外での需要を理解できてない感はある</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">11. ID: <span>1D8</span> <span title="2019/02/04(月)09:33:08">2019/02/04 09:33</span></div><div style="padding-top: 10px;"><p class="content">실제로 Xperia와 iPhone과 GALAXY라면 사용감 얼마나 다를까<br><span class="jp">実際XperiaとiPhoneとGALAXYだと使用感どんだけ変わるんや</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">17. ID: <span>f1p</span> <span title="2019/02/04(月)09:35:38">2019/02/04 09:35</span></div><div style="padding-top: 10px;"><p class="content">일본인용으로 특화된 결과 www<br><span class="jp">日本人向けに特化した結果ｗｗｗ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">18. ID: <span>V4I</span> <span title="2019/02/04(月)09:35:49">2019/02/04 09:35</span></div><div style="padding-top: 10px;"><p class="content">필요없는 기능이나 어플같은게 없는 심플한놈 갖고 싶어<br><span class="jp">いらん機能やアプリやら付いてないシンプルなやつ欲しいわ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">20. ID: <span>fSt</span> <span title="2019/02/04(月)09:38:14">2019/02/04 09:38</span></div><div style="padding-top: 10px;"><p class="content">카메라의 화질도 성능도 내구성, 방수 등이, 없는 iPhone이 왜인지 패권을 잡을 수 있었던 iPhone<br><span class="jp">カメラの画質も性能も耐久性、防水なんかが、ついていないiPhoneが何故か覇権をとることができたiPhone</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">21. ID: <span>f1p</span> <span title="2019/02/04(月)09:39:07">2019/02/04 09:39</span></div><div style="padding-top: 10px;"><p class="content">보잘것없는걸 만들어도 일본인이 국산신앙으로 사주니까
 국제경쟁력의 정반대같은 곳에 있던것이. 메이커 제품PC라든지 쓰레기의 대명사였고<br><span class="jp">しょーもないもん作っても日本人が国産信仰で買ってくれるもんだから
 国際競争力の対極みたいなとこにいたのでは　メーカー品PCとかゴミの代名詞やったし</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">23. ID: <span>ruA</span> <span title="2019/02/04(月)09:41:53">2019/02/04 09:41</span></div><div style="padding-top: 10px;"><p class="content">메이커 "이런 거 만들었어!"
-유저 "오오오오!!"
+유저 「오오오오!!」
 
-메이커 "이런 기능 있어!"
-유저 "오오오오!!"
+메이커 「이런 기능 있어!」
+유저 「오오오오!!」
 
-메이커 "이런 기능도 있어!"
-유저 "오오오오오....응?"
+메이커 「이런 기능도 있어!」
+유저 「오오오오오....응?」
 
-메이커 "이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이것도있구!!"
-유저 "아니...잠깐..."
+메이커 「이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이거랑 이것도있구!!」
+유저 「아니...잠깐...」
 
-메이커 "참고로 여기는 사과<sup>(애플)</sup>와 똑같이 했어(진지)"
-유저"에에에...."
+메이커 「참고로 여기는 사과<sup>(애플)</sup>와 똑같이 했어(진지)」
+유저 「에에에....」
 
 이것이 재팬 퀄리티의 나쁜 부분<br><span class="jp">メーカー「こんなん作ったで！」
 ユーザー「おおおおおお！！」
