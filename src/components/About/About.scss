@@ -23,3 +23,22 @@
         }
     }
 }
+
+#reverse:checked ~ span#asdf {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+#zxcv {
+    display: none;
+}
+#reverse:checked ~ div#zxcv {
+    display: block;
+}
+#qwer {
+    display: none;
+}
+#reverse:checked ~ div#qwer {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    display: block;
+}
