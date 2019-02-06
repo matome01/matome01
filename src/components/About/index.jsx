@@ -18,7 +18,7 @@ class About extends Component {
             />
             <CardText>
               <p className="about-text md-body-1">{config.userDescription}</p>
-              <input type="checkbox" id="reverse" /><span id="asdf">가나다라마바사</span><div id="zxcv">아자차카타파하</div><div id="qwer">아야어여오요우유으이</div>
+              <input type="checkbox" id="reverse" /><span id="asdf">가나다라마바사</span><div id="zxcv">아자차카타파하</div><div id="qwer">아야어여오요우유으이</div><div id="wert">あいうえおかきくけこ</div>
             </CardText>
             <UserLinks labeled config={config} />
           </div>
