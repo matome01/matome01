@@ -1,12 +1,12 @@
 const config = {
   siteTitle: "마토메", // Site title.
   siteTitleShort: "마토메", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "마토메 - 일본 사이트 정리, 번역", // Alternative site title for SEO.
+  siteTitleAlt: "마토메 - 일본 속보, 뉴스, 반응, 유행 - 정리, 번역", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://matome.fun", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
-  siteDescription: "마토메 - 일본 사이트 정리, 번역", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "마토메 - 일본 속보, 뉴스, 반응, 유행 - 정리, 번역", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "234268327499052", // FB Application ID for using app insights
   siteGATrackingID: "UA-132782008-1", // Tracking code ID for google analytics.
