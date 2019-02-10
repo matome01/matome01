@@ -34,22 +34,7 @@ tags:
 메이커 「참고로 여기는 사과<sup>(애플)</sup>와 똑같이 했어(진지)」
 유저 「에에에....」
 
-이것이 재팬 퀄리티의 나쁜 부분<br><span class="jp">メーカー「こんなん作ったで！」
-ユーザー「おおおおおお！！」
-
-メーカー「こんな機能あるで！」
-ユーザー「おおおおおお！！」
-
-メーカー「こんな機能もあるで！」
-ユーザー「おおおおおお……ん？」
-
-メーカー「これとこれとこれとこれとこれとこれとこれとこれとこれもあるで！！」
-ユーザー「いや……ちょっ……」
-
-メーカー「ちなここは林檎と同じにしたわ(真顔)」
-ユーザー「えええええ……」
-
-これがジャパンクオリティーの悪いところ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">24. ID: <span>rwV</span> <span title="2019/02/04(月)09:42:04">2019/02/04 09:42</span></div><div style="padding-top: 10px;"><p class="content">괜한 돈 내서라도 사주는 일본시장에 응석 부렸다
+이것이 재팬 퀄리티의 나쁜 부분<br><span class="jp">メーカー「こんなん作ったで！」<br>ユーザー「おおおおおお！！」<br><br>メーカー「こんな機能あるで！」<br>ユーザー「おおおおおお！！」<br><br>メーカー「こんな機能もあるで！」<br>ユーザー「おおおおおお……ん？」<br><br>メーカー「これとこれとこれとこれとこれとこれとこれとこれとこれもあるで！！」<br>ユーザー「いや……ちょっ……」<br><br>メーカー「ちなここは林檎と同じにしたわ(真顔)」<br>ユーザー「えええええ……」<br><br>これがジャパンクオリティーの悪いところ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">24. ID: <span>rwV</span> <span title="2019/02/04(月)09:42:04">2019/02/04 09:42</span></div><div style="padding-top: 10px;"><p class="content">괜한 돈 내서라도 사주는 일본시장에 응석 부렸다
 통신사가 지배하고 있던 바람에 외국을 향한 생산을 할 수 없었다<br><span class="jp">無駄金払っても買ってくれる日本市場に甘えてた
 キャリアが支配してたせいで外国向けの生産が出来なかった</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">25. ID: <span>EhZ</span> <span title="2019/02/04(月)09:43:13">2019/02/04 09:43</span></div><div style="padding-top: 10px;"><p class="content">쓸데없는 기능을 넣는다
 디자인이 끝나있다
