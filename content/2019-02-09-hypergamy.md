@@ -1,7 +1,7 @@
 ---
 title: 여자인데 결혼상대에 바라는 조건 너무 높은지 판정해줘
 date: 2019-02-09T15:23:00.400Z
-cover: /assets/20190209/1.jpg
+cover: /assets/20190209/2019020901.jpg
 slug: 20190209-hypergamy
 category: 잡담
 tags:
