@@ -50,7 +50,7 @@ module.exports = {
             options: {
               maxWidth: 672,
               quality: 80,
-              wrapperStyle: "white-space: normal;",
+              wrapperStyle: "white-space: normal; margin-left: 0 !important;",
               withWebp: { quality: 80 }
             }
           },
