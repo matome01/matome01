@@ -60,3 +60,6 @@ bundle-stats.json
 
 ##json_files
 json_files
+
+#yarn.lock
+yarn.lock
