@@ -24,7 +24,7 @@ class PostCover extends Component {
       return (
         <Img
           fluid={coverNodeList[0].node.childImageSharp.fluid}
-          outerWrapperClassName={coverClassName}
+          className={coverClassName}
           style={{ height: coverHeight, width: "100%" }}
         />
       );
