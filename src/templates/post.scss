@@ -163,3 +163,12 @@ label {
 #main-content > div > div > div > div.md-grid.md-cell--9.post-page-contents.mobile-fix.post-overlap-mobile > div.md-paper.md-paper--1.md-card.md-background--card.md-grid.md-cell.md-cell--12.post > section > div:nth-child(3) > div > p {
     overflow: auto;
 }
+.ref {
+    color: #ff2154;
+}
+.ref_img {
+    display: none;
+}   
+.ref:hover ~ .ref_img {
+    display: initial;
+}
