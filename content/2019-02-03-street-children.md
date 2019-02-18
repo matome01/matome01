@@ -1,11 +1,12 @@
 ---
 title: 며칠간 길거리 아이와 동거했던 이야기를 하고싶어
 date: 2019-02-03T12:39:43.752Z
-cover: /assets/syrian_girl.jpg
+cover: syrian_girl.jpg
 slug: 20190203-street-children
 category: 썰
 tags:
   - 훈훈
+backgroundPosition:
 ---
 <div><p class="source">출처: <a href="https://hayabusa.open2ch.net/test/read.cgi/news4vip/1548750328/" rel="nofollow noopener noreferrer" target="_blank"><span>https</span><span>://</span><span>hayabusa</span><span>.</span><span>open2ch</span><span>.</span><span>net</span><span>/</span><span>test</span><span>/</span><span>read</span><span>.</span><span>cgi</span><span>/</span><span>news4vip</span><span>/</span><span>1548750328</span><span>/</span></a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox1"><div class="content1"><div class="id">2. ID: <span class="op">Gve</span> <span title="2019/01/29(火)17:27:40">2019/01/29 17:27</span></div><div style="padding-top: 10px;"><p class="content">나는 대학원 2학년으로 8월 말부터 동유럽에 유학하고 있었다
 유학중에는 현지 대학의 강의를 듣고, 대학 기숙사에 들어가 있었다

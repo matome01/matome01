@@ -1,12 +1,13 @@
 ---
 title: 스커트와 슬랙스 선택가능에　도쿄 세타가야구와 나카노구의 모든 구립중학교에서 ※남자는 안돼!
 date: 2019-02-17T15:23:00.400Z
-cover: /assets/20190217/2019021701.jpg
+cover: 20190217/2019021701.jpg
 slug: 20190217-school-uniform
 category: 남녀
 tags:
   - 뉴스
   - 교복
+backgroundPosition: 10%
 ---
 <div><p class="source">출처: <a href="http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/" target="_blank" rel="noopener nofollow noreferrer">http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">DCnOMrTq9.net</span> <span title="2019/02/16(土) 22:59:55.62">2019/02/16 22:59</span></div><div style="padding-top: 10px;"><p class="content">스커트와 슬랙스 선택가능에<br>
 *원 소스에 뉴스사진 있음*<br>

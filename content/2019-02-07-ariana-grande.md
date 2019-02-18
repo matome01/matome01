@@ -1,12 +1,13 @@
 ---
 title: 【비보】아리아나 그란데, 「일본인의 문화를 도용하지마」라고 비판받아 일본어의 것을 전부 삭제
 date: 2019-02-07T10:23:00.400Z
-cover: /assets/20190207/20190207-ariana1.jpg
+cover: 20190207/20190207-ariana1.jpg
 slug: 20190207-ariana-grande
 category: 해외
 tags:
   - 해외
   - 연예인
+backgroundPosition:
 ---
 <div><p class="source">출처: <a href="http://tomcat.2ch.sc/test/read.cgi/livejupiter/1549502770" rel="nofollow noopener noreferrer" target="_blank"><span>http</span><span>://</span><span>tomcat</span><span>.</span><span>2ch</span><span>.</span><span>sc</span><span>/</span><span>test</span><span>/</span><span>read</span><span>.</span><span>cgi</span><span>/</span><span>livejupiter</span><span>/</span><span>1549502770</span></a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">GCuDHtkt0.net</span> <span title="2019/02/07(木) 10:26:10.86">2019/02/07 10:26</span></div><div style="padding-top: 10px;"><p class="content">「(문화의)도용과 감사에는 차이가 있어. 일본인 팬은 내가 일본어를 쓰거나,
 일본어 옷을 입으면 항상 기뻐해 주거든.

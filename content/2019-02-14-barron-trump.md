@@ -1,12 +1,13 @@
 ---
 title: 도널드・트럼프의 아들 바론, 12세에 신장 190cm 가까이 되다
 date: 2019-02-14T15:23:00.400Z
-cover: /assets/20190214/2019021401.jpg
+cover: 20190214/2019021401.jpg
 slug: 20190214-barron-trump
 category: 국제
 tags:
   - 뉴스
   - 미국
+backgroundPosition: 8%
 ---
 <div><p class="source">출처: <a href="http://tomcat.2ch.sc/test/read.cgi/livejupiter/1550193979/" target="_blank" rel="noopener nofollow noreferrer">http://tomcat.2ch.sc/test/read.cgi/livejupiter/1550193979/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">K9m1iR8y0.net</span> <span title="2019/02/15(金) 10:26:19.89">2019/02/15 10:26</span></div><div style="padding-top: 10px;"><p class="content">1년 만에 급격히 성장하여 190cm의 트럼프에 12세로 나란히 서다<br><span class="jp">1年で急激に成長し190cmのトランプに12歳にして並ぶ</span></p>
 
