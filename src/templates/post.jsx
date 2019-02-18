@@ -17,7 +17,11 @@ import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
 import Postbody from "../components/Mycustom/Postbody"
-import alljson from "../../json_files/20190217.json"
+const importAll = r => r.keys().map(r)
+const allJsons = importAll(require.context("../../json_files/", false, /\.json$/))
+const recentJson = allJsons[allJsons.length - 1]
+const targetJson = recentJson
+/* import targetJson from "../../json_files/20190217.json" */
 
 export default class PostTemplate extends React.Component {
   constructor(props) {
@@ -81,7 +85,7 @@ export default class PostTemplate extends React.Component {
                 <PostInfo postNode={postNode} />
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
                 <h1>=====</h1>
-                <Postbody alljson={alljson}/>
+                <Postbody targetJson={targetJson}/>
               </CardText>
               <div className="post-meta">
                 <PostTags tags={post.tags} />
