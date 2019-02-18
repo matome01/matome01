@@ -5,7 +5,7 @@ export class Postbody extends Component {
   render() {
     return (
       <div>
-        <p>출처: <a href={this.props.alljson.thread_url} target="_blank" rel="noopener nofollow noreferrer">{this.props.alljson.thread_url}</a></p><br/>
+        <p className="source">출처: <a href={this.props.alljson.thread_url} target="_blank" rel="noopener nofollow noreferrer">{this.props.alljson.thread_url}</a></p><br/>
         <label for="twolang" style={{fontWeight: 550}}>일본어 같이보기</label>
         <input type="checkbox" id="twolang"/><br/><br/>
         { this.props.alljson.comments.map(comment => comment.comment_anchor == false ? (

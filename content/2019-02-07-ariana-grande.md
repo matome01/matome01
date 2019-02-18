@@ -8,7 +8,7 @@ tags:
   - 해외
   - 연예인
 ---
-<div><p>출처: <a class="vglnk" href="http://tomcat.2ch.sc/test/read.cgi/livejupiter/1549502770" rel="nofollow noopener noreferrer" target="_blank"><span>http</span><span>://</span><span>tomcat</span><span>.</span><span>2ch</span><span>.</span><span>sc</span><span>/</span><span>test</span><span>/</span><span>read</span><span>.</span><span>cgi</span><span>/</span><span>livejupiter</span><span>/</span><span>1549502770</span></a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">GCuDHtkt0.net</span> <span title="2019/02/07(木) 10:26:10.86">2019/02/07 10:26</span></div><div style="padding-top: 10px;"><p class="content">「(문화의)도용과 감사에는 차이가 있어. 일본인 팬은 내가 일본어를 쓰거나,
+<div><p class="source">출처: <a class="vglnk" href="http://tomcat.2ch.sc/test/read.cgi/livejupiter/1549502770" rel="nofollow noopener noreferrer" target="_blank"><span>http</span><span>://</span><span>tomcat</span><span>.</span><span>2ch</span><span>.</span><span>sc</span><span>/</span><span>test</span><span>/</span><span>read</span><span>.</span><span>cgi</span><span>/</span><span>livejupiter</span><span>/</span><span>1549502770</span></a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">GCuDHtkt0.net</span> <span title="2019/02/07(木) 10:26:10.86">2019/02/07 10:26</span></div><div style="padding-top: 10px;"><p class="content">「(문화의)도용과 감사에는 차이가 있어. 일본인 팬은 내가 일본어를 쓰거나,
 일본어 옷을 입으면 항상 기뻐해 주거든.
 하지만, 이제 일본어가 사용되고 있는 것은 내 사이트에서 모두 삭제했어.」
 게다가 아리아나 그란데는, 어느 유저로부터 「굿즈 등에 일본어를 넣거나
