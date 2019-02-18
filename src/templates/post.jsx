@@ -16,9 +16,6 @@ import config from "../../data/SiteConfig";
 import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
-//import Postbody from "../components/Mycustom/Postbody"
-//import alljson from "../../json_files/hashimoto.json"
-
 export default class PostTemplate extends React.Component {
   constructor(props) {
     super(props);
@@ -80,8 +77,6 @@ export default class PostTemplate extends React.Component {
                 <h1 className="md-display-2 post-header">{post.title}</h1>
                 <PostInfo postNode={postNode} />
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-                {/* <h1>=====</h1>
-                <Postbody alljson={alljson}/> */}
               </CardText>
               <div className="post-meta">
                 <PostTags tags={post.tags} />
