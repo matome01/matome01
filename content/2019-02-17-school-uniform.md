@@ -8,7 +8,7 @@ tags:
   - 뉴스
   - 교복
 ---
-<div><p>출처: <a href="http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/" target="_blank" rel="noopener nofollow noreferrer">http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">DCnOMrTq9.net</span> <span title="2019/02/16(土) 22:59:55.62">2019/02/16 22:59</span></div><div style="padding-top: 10px;"><p class="content">스커트와 슬랙스 선택가능에<br>
+<div><p class="source">출처: <a href="http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/" target="_blank" rel="noopener nofollow noreferrer">http://ai.2ch.sc/test/read.cgi/newsplus/1550325595/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">DCnOMrTq9.net</span> <span title="2019/02/16(土) 22:59:55.62">2019/02/16 22:59</span></div><div style="padding-top: 10px;"><p class="content">스커트와 슬랙스 선택가능에<br>
 *원 소스에 뉴스사진 있음*<br>
 <a class="vglnk" href="http://www3.nhk.or.jp/lnews/shutoken/20190216/1000025658.html" rel="nofollow"><span>http</span><span>://</span><span>www3</span><span>.</span><span>nhk</span><span>.</span><span>or</span><span>.</span><span>jp</span><span>/</span><span>lnews</span><span>/</span><span>shutoken</span><span>/</span><span>20190216</span><span>/</span><span>1000025658</span><span>.</span><span>html</span></a>
 ※NHK로컬뉴스는 원 기사가 사라지는 것이 빠르므로 주의를<br>
@@ -166,9 +166,9 @@ tags:
 전차에 여자전용차는 있는데 남자전용차는 없어.
 역차별의 일환이지.<br><span class="jp">女子大はあるのに男子大は無い。
 電車に女専用車はあるのに男専用車は無い。
-逆差別の一環だな。</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">546. ID: <span>Yq9ZVhWc0.net</span> <span title="2019/02/17(日) 00:43:24.45">2019/02/17 00:43</span></div><div style="padding-top: 10px;"><p class="content">영국이라든가 보통으로 남자도 스커트<span class="jp">イギリスとか普通に男もスカート</span>
+逆差別の一環だな。</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">546. ID: <span>Yq9ZVhWc0.net</span> <span title="2019/02/17(日) 00:43:24.45">2019/02/17 00:43</span></div><div style="padding-top: 10px;"><p class="content">영국이라든가 보통으로 남자도 스커트<span class="jp">イギリスとか普通に男もスカート</span></p>
 
-![영국 스커트](/assets/20190217/2019021702.jpeg "영국 스커트")</p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">677. ID: <span>Snc4UJ5n0.net</span> <span title="2019/02/17(日) 00:59:30.07">2019/02/17 00:59</span></div><div style="padding-top: 10px;"><p class="content">왜 굳이 남자는 선택할 수 없게 되있는 거야
+![영국 스커트](/assets/20190217/2019021702.jpeg "영국 스커트")</div></div></div><div class="commentbox1"><div class="content1"><div class="id">677. ID: <span>Snc4UJ5n0.net</span> <span title="2019/02/17(日) 00:59:30.07">2019/02/17 00:59</span></div><div style="padding-top: 10px;"><p class="content">왜 굳이 남자는 선택할 수 없게 되있는 거야
 선택하는 남자가 있을까 말까는 별도로, 그런 제한할 필요가 있을까??<br><span class="jp">なんでわざわざ男子は選べないようになってんねん
 選ぶ男子がいるかいないかは別として、そんな制限する必要あるか？？</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">693. ID: <span>5vWkwsO70.net</span> <span title="2019/02/17(日) 01:01:24.25">2019/02/17 01:01</span></div><div style="padding-top: 10px;"><p class="content">한랭지의 시골이지만
 겨울은 여자도 슬랙스한정, 스커트불가

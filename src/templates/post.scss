@@ -127,7 +127,7 @@ $phone-status-bar-height: 24px - 12px;
 .commentbox0 {
     margin-bottom: 10px;
 }
-.content2, .content3, .content4, .content5, .content6, .content7, .content8, .content9 {
+.content2 {
     border-left: 2px solid #EEEEEE;
     padding-left: 5px;
     margin-left: 5px;
@@ -149,7 +149,7 @@ $phone-status-bar-height: 24px - 12px;
     font-weight: 700;
     color: #03a9f4ad;
 }
-#twolang:checked ~ div span.jp {
+#twolang:checked ~ div .jp {
     display: block;
 }
 label {
@@ -161,8 +161,11 @@ label {
 .md-toolbar--fixed {
     position: absolute;
 }
-#main-content > div > div > div > div.md-grid.md-cell--9.post-page-contents.mobile-fix.post-overlap-mobile > div.md-paper.md-paper--1.md-card.md-background--card.md-grid.md-cell.md-cell--12.post > section > div:nth-child(3) > div > p {
+.source {
     overflow: auto;
+}
+a.vglnk {
+    overflow-wrap: break-word;
 }
 .ref {
     color: #ff2154;
