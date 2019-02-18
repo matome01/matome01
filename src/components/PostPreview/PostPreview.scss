@@ -4,3 +4,23 @@
     background-position: 50% 32%;
     padding: 0 !important;
 }
+@media only screen and (max-width: 525px) {
+    .md-card-title--large {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 398px) {
+    .md-card-title--large {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .md-card-title--large {
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 300px) {
+    .md-card-title--large {
+        font-size: 12px;
+    }
+}
