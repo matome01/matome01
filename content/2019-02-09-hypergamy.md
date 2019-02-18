@@ -1,12 +1,13 @@
 ---
 title: 여자인데 결혼상대에 바라는 조건 너무 높은지 판정해줘
 date: 2019-02-09T15:23:00.400Z
-cover: /assets/20190209/2019020901.jpg
+cover: 20190209/2019020901.jpg
 slug: 20190209-hypergamy
 category: 잡담
 tags:
   - 결혼
   - 잡담
+backgroundPosition:
 ---
 <div><p class="source">출처: <a href="http://viper.2ch.sc/test/read.cgi/news4vip/1549632121/" target="_blank" rel="noopener nofollow noreferrer">http://viper.2ch.sc/test/read.cgi/news4vip/1549632121/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">OAACJT30r.net</span> <span title="2019/02/08(金) 22:22:01.438">2019/02/08 22:22</span></div><div style="padding-top: 10px;"><p class="content">대졸이상(대학은 어디여도 괜찮)
 전문학교졸업<sup>(専門卒)</sup>이라도 의료자격계열이면 괜찮

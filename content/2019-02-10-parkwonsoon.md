@@ -1,12 +1,13 @@
 ---
 title: 【비보】「일본제품 불매조례」를 만들려하는 한국 서울시장의 차가 여기w
 date: 2019-02-10T15:23:00.400Z
-cover: /assets/20190210/2019021001.jpg
+cover: 20190210/2019021001.jpg
 slug: 20190210-parkwonsoon
 category: 한국
 tags:
   - 한국
   - 뉴스
+backgroundPosition:
 ---
 <div><p class="source">출처: <a href="http://hayabusa3.2ch.sc/test/read.cgi/news/1549750184/" target="_blank" rel="noopener nofollow noreferrer">http://hayabusa3.2ch.sc/test/read.cgi/news/1549750184/</a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">9DH10Tr50.net</span> <span title="2019/02/10(日) 07:09:44.30">2019/02/10 07:09</span></div><div style="padding-top: 10px;">
 

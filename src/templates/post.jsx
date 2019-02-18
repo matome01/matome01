@@ -121,6 +121,7 @@ export const pageQuery = graphql`
         date
         category
         tags
+        backgroundPosition
       }
       fields {
         nextTitle

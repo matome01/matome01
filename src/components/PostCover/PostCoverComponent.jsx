@@ -26,6 +26,7 @@ class PostCover extends Component {
           fluid={coverNodeList[0].node.childImageSharp.fluid}
           className={coverClassName}
           style={{ height: coverHeight, width: "100%" }}
+          imgStyle={{ objectPosition: `center ${post.backgroundPosition}`}}
         />
       );
     }
@@ -39,7 +40,8 @@ class PostCover extends Component {
       <div
         style={{
           backgroundImage: `url(${coverURL})`,
-          height: `${coverHeight}px`
+          height: `${coverHeight}px`,
+          backgroundPositionY: `${post.backgroundPosition}`
         }}
         className={coverClassName}
       />

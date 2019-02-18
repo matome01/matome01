@@ -1,13 +1,14 @@
 ---
 title: 왜 일본 메이커는 세계 패권을 쥘 스마트폰을 만들 수 없는가
 date: 2019-02-05T11:05:32.400Z
-cover: /assets/20190205/20190205-jp-smartphone1.jpg
+cover: 20190205/20190205-jp-smartphone1.jpg
 slug: 20190205-jp-smartphone
 category: IT
 tags:
   - 잡담
   - 기술
   - IT
+backgroundPosition:
 ---
 <div><p class="source">출처: <a href="https://hayabusa.open2ch.net/test/read.cgi/livejupiter/1549240065/" rel="nofollow noopener noreferrer" target="_blank"><span>https</span><span>://</span><span>hayabusa</span><span>.</span><span>open2ch</span><span>.</span><span>net</span><span>/</span><span>test</span><span>/</span><span>read</span><span>.</span><span>cgi</span><span>/</span><span>livejupiter</span><span>/</span><span>1549240065</span><span>/</span></a></p><br><label for="twolang" style="font-weight: 550;">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">7pN</span> <span title="2019/02/04(月)09:27:45">2019/02/04 09:27</span></div><div style="padding-top: 10px;"><p class="content">저런거 양질의 부품을 모아서 조립하는 것 뿐이잖아?<br><span class="jp">あんなん良質なパーツを集めて組むだけちゃうんか？</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">4. ID: <span>0AH</span> <span title="2019/02/04(月)09:29:21">2019/02/04 09:29</span></div><div style="padding-top: 10px;"><p class="content">필요없는 기능 집어넣으니까 겠지<br><span class="jp">いらん機能詰め込むからやろ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">2. ID: <span>OQ0</span> <span title="2019/02/04(月)09:28:08">2019/02/04 09:28</span></div><div style="padding-top: 10px;"><p class="content">역시 비싼거 아닐까<br><span class="jp">やっぱ高いんとちゃう</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">5. ID: <span>3x3</span> <span title="2019/02/04(月)09:30:24">2019/02/04 09:30</span></div><div style="padding-top: 10px;"><p class="content">브랜드력이 없다
 국내에서 만족하고 있었기 때문에 해외에서의 프레젠테이션 능력이 없다
