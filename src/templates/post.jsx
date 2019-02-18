@@ -17,10 +17,8 @@ import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
 import Postbody from "../components/Mycustom/Postbody"
-const importAll = r => r.keys().map(r)
-const allJsons = importAll(require.context("../../json_files/", false, /\.json$/))
-const recentJson = allJsons[allJsons.length - 1]
-const targetJson = recentJson
+const importLast = r => r(r.keys()[r.keys().length - 1])
+const targetJson = importLast(require.context("../../json_files/", false, /\.json$/))
 /* import targetJson from "../../json_files/20190217.json" */
 
 export default class PostTemplate extends React.Component {
