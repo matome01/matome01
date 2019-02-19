@@ -16,18 +16,6 @@ class queryWrapper extends Component {
                   absolutePath
                   childImageSharp {
                     id
-                    resolutions {
-                      base64
-                      tracedSVG
-                      aspectRatio
-                      width
-                      height
-                      src
-                      srcSet
-                      srcWebp
-                      srcSetWebp
-                      originalName
-                    }
                     internal {
                       contentDigest
                       type
