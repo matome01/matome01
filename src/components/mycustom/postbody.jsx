@@ -3,14 +3,15 @@ import Singlecommentsbox from './Singlecommentsbox'
 
 export class Postbody extends Component {
   render() {
+    const comments = this.props.targetJson.comments.sort((a, b) => a.comment_num - b.comment_num);
     return (
       <div>
         <p className="source">출처: <a href={this.props.targetJson.thread_url} target="_blank" rel="noopener nofollow noreferrer">{this.props.targetJson.thread_url}</a></p><br/>
         <label htmlFor="twolang" style={{fontWeight: 550}}>일본어 같이보기</label>
         <input type="checkbox" id="twolang"/><br/><br/>
-        { this.props.targetJson.comments.map(comment => comment.comment_anchor == false ? (
+        { comments.map(comment => comment.comment_anchor == false ? (
           <div className={comment.comment_num === '1'? "commentbox0" : "commentbox1"}>
-            <Singlecommentsbox {...comment} comments={this.props.targetJson.comments} thread_opId={this.props.targetJson.thread_opId} />
+            <Singlecommentsbox {...comment} comments={comments} thread_opId={this.props.targetJson.thread_opId} />
           </div>
           ) : null)
         }
