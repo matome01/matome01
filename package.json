@@ -80,7 +80,8 @@
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "format:js": "prettier '**/*.{js,jsx}' --write",
     "deploy": "gatsby build && gh-pages -d public -b master",
-    "f": "npm run clean && npm run build && npm run serve"
+    "f": "npm run clean && npm run build && npm run serve",
+    "c": "git push && git checkout draft && git push"
   },
   "remarkConfig": {
     "plugins": [
