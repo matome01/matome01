@@ -49,9 +49,9 @@ module.exports = {
             resolve: "gatsby-remark-images",
             options: {
               maxWidth: 672,
-              quality: 80,
+              quality: 90,
               wrapperStyle: "white-space: normal; margin-left: 0 !important;",
-              withWebp: { quality: 80 }
+              withWebp: { quality: 90 }
             }
           },
           {
@@ -83,7 +83,12 @@ module.exports = {
       }
     },
     "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp",
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        useMozJpeg: true,
+      },
+    },
     "gatsby-plugin-catch-links",
     //"gatsby-plugin-netlify-cms",
     "gatsby-plugin-twitter",
