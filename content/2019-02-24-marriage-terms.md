@@ -65,7 +65,7 @@ A：【男性】はい　40％
 日本に来る外人どんどん増えるし、益々日本人の女は外人に取られて行くで</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">61. ID: <span>E2u2hHKo0.net</span> <span title="2019/02/24(日) 11:07:31.22">2019/02/24 11:07</span></div><div style="padding-top: 10px;"><p class="content">맞벌이가 가장 행복해질 수 있다는 걸 깨달은거겠지
 가사분담해주는 사람이 아니면 맞벌이 할 수 없고<br><span class="jp">共働きがいちばん幸せになれるっての気づいたんだろな
 家事分担してくれる人じゃないと共働きできないし</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">72. ID: <span>Hx9ZuJYqd.net</span> <span title="2019/02/24(日) 11:09:13.52">2019/02/24 11:09</span></div><div style="padding-top: 10px;"><p class="content">그야 세상의 대부분의 まんさん<sup>(여성을 낮잡아 부르는 비속어)</sup>은 쓰레기 스펙이니깐
-미인에 스펙이 높은 여자는 고학력 고수입에 일류기업 근무인 미남밖에 안중에 없어<br><span class="jp">そりゃ世の中の大半のまんさんはゴミスペックだからな
+미인에 스펙이 높은 여자는 고학력 고수입에 일류기업 근무인 이케맨<sup>(잘생긴 남자)</sup>밖에 안중에 없어<br><span class="jp">そりゃ世の中の大半のまんさんはゴミスペックだからな
 美人でスペックの高い女は高学歴高収入で一流企業勤めのイケメンしか眼中にないぞ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">73. ID: <span>iJ0POZag0.net</span> <span title="2019/02/24(日) 11:09:14.21">2019/02/24 11:09</span></div><div style="padding-top: 10px;"><p class="content">1위와 3위는 양립하지 않잖아<br><span class="jp">1位と3位は相容れないやん</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">125. ID: <span>UlAhDSLFr.net</span> <span title="2019/02/24(日) 11:16:49.86">2019/02/24 11:16</span></div><div style="padding-top: 10px;"><p class="content">사회인이나 돼서 학력 신경쓰는 녀석 본 적 없어
 수입과 근무처가 전부지<br><span class="jp">社会人にもなって学歴気にするやつ見たことないわ
 収入と勤務先が全てやろ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">136. ID: <span>fzWG043b0.net</span> <span title="2019/02/24(日) 11:18:26.60">2019/02/24 11:18</span></div><div style="padding-top: 10px;"><p class="content">신장 큰 메리트 뭐냐
@@ -126,7 +126,7 @@ A：【男性】はい　40％
 남자 쪽이 훨씬 여자를 얼굴로밖에 보고있지 않잖아
 추녀인 여자의 연애인권의 없음 쓰라리<sup>(えぐい)</sup>잖아<br><span class="jp">女は男を顔でしか判断せん言うやついるけど
 男の方が余程女を顔でしか見てないやろ
-ブスな女の恋愛人権のなさえぐいやん</span> </p></div><div class="content2"><div class="id">435. ID: <span>x+gn8Lpm0.net</span> <span title="2019/02/24(日) 11:49:29.51">2019/02/24 11:49</span></div><div style="padding-top: 10px;"><p class="content">귀여운 아이가 못생긴 남자랑 있는건 가끔 보지만 미남이 뚱보 추녀<sup>(デブス)</sup> 데리고 있는건 일단 못 보니깐 말야<br><span class="jp">かわいい子がブサイク男といるのはたまに見るけどイケメンがデブス連れてるのはまず見ないからな</span> </p></div><div class="content2"><div class="id">457. ID: <span>WHYW0y7CM.net</span> <span title="2019/02/24(日) 11:51:09.88">2019/02/24 11:51</span></div><div style="padding-top: 10px;"><p class="content">맞아맞아
+ブスな女の恋愛人権のなさえぐいやん</span> </p></div><div class="content2"><div class="id">435. ID: <span>x+gn8Lpm0.net</span> <span title="2019/02/24(日) 11:49:29.51">2019/02/24 11:49</span></div><div style="padding-top: 10px;"><p class="content">귀여운 아이가 못생긴 남자랑 있는건 가끔 보지만 이케맨<sup>(잘생긴 남자)</sup>이 뚱보 추녀<sup>(デブス)</sup> 데리고 있는건 일단 못 보니깐 말야<br><span class="jp">かわいい子がブサイク男といるのはたまに見るけどイケメンがデブス連れてるのはまず見ないからな</span> </p></div><div class="content2"><div class="id">457. ID: <span>WHYW0y7CM.net</span> <span title="2019/02/24(日) 11:51:09.88">2019/02/24 11:51</span></div><div style="padding-top: 10px;"><p class="content">맞아맞아
 남자한테 얼굴을 별로 안바라는 여자란 죽도록 많지만 반대는 좀처럼 없으니까
 여자는 얼굴이 전부야 정말<br><span class="jp">そうそう
 男に顔をあんまり求めない女なんて死ぬほどいるけど逆はめったにいないからな
