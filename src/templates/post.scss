@@ -152,8 +152,16 @@ $phone-status-bar-height: 24px - 12px;
 #twolang:checked ~ .commentbox0 .jp, #twolang:checked ~ .commentbox1 .jp {
     display: block;
 }
+#twolang {
+    height: 1.4rem;
+    width: 1.4rem;
+    cursor: pointer;
+}
 label {
     cursor: pointer;
+    font-weight: 550;
+    font-size: 1.4rem;
+    color: #3a88eca8;
 }
 .content {
     white-space: pre-line;
