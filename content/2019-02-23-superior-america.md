@@ -3,7 +3,7 @@ title: 왜, 미국인은 우수한건가
 date: 2019-02-23T15:23:00.400Z
 cover: 20190223/2019022301.jpg
 slug: 20190223-superior-america
-category: 미국
+category: 국제
 tags:
   - 미국
 backgroundPosition: 40%
