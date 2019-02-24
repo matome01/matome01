@@ -7,7 +7,7 @@ export class Postbody extends Component {
     return (
       <div>
         <p className="source">출처: <a href={this.props.targetJson.thread_url} target="_blank" rel="noopener nofollow noreferrer">{this.props.targetJson.thread_url}</a></p><br/>
-        <label htmlFor="twolang" style={{fontWeight: 550}}>일본어 같이보기</label>
+        <label htmlFor="twolang">일본어 같이보기</label>
         <input type="checkbox" id="twolang"/><br/><br/>
         { comments.map(comment => comment.comment_anchor == false ? (
           <div className={comment.comment_num === '1'? "commentbox0" : "commentbox1"}>
