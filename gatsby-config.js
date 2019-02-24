@@ -150,7 +150,44 @@ module.exports = {
         ]
       }
     },
-    "gatsby-plugin-offline",
+    {
+      resolve: "gatsby-plugin-offline",
+      options: {
+        // 1. 맨위부터 매치가 되는순간 아래는 거들떠보지도 않음
+        // 2. /\.js/가 http로 시작하는 외부 사이트들로부터의 .js들을 매치를 못함. 즉, /\.js/는 동일 사이트 안에서의 매치. 외부 사이트로부터 것을 매치하려면 /^https? 이렇게 앞에 붙여야만 함
+        // 3. 하지만 /^https?로 시작하는 것들은 동일 사이트 안까지 포함하여 매치됨
+        // 4. /^\/?/ 이런식으로 아무리 해도 아무런 매치도 되지 않음. 즉 /^가 붙었을 때, 무조건 http가 나옴. 즉 /^[^h]/는 아무런 매치도 안됌
+        runtimeCaching: [{
+          urlPattern: /(\.js$|\.css$|static\/)/, 
+          handler: "cacheFirst", 
+          options: { 
+            cacheName: "first-cache-321"
+          }
+        }, {
+          urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+          handler: "staleWhileRevalidate",
+          options: {
+            cacheName: "second-cache-321"
+          }
+        }, {
+          urlPattern: /^https?:\/\/fonts\.googleapis\.com\/css/,
+          handler: "staleWhileRevalidate",
+          options: {
+            cacheName: "third-cahce-321"
+          }
+        }, {
+          urlPattern: "/",
+          handler: `networkFirst`,
+          options: {
+            networkTimeoutSeconds: 10,
+            cacheName: 'fourth-cache-321',
+            cacheableResponse: {
+              statuses: [0, 200]
+            }
+          }
+        }]
+      }
+    },
     {
       resolve: "gatsby-plugin-feed",
       options: {
