@@ -11,7 +11,7 @@ backgroundPosition: 40%
 ---
 <div><p class="source">출처: <a href="http://tomcat.2ch.sc/test/read.cgi/livejupiter/1551043950/" target="_blank" rel="noopener nofollow noreferrer">http://tomcat.2ch.sc/test/read.cgi/livejupiter/1551043950/</a></p><br><label for="twolang">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">k3UOxqP2p.net</span> <span title="2019/02/25(月) 06:32:30.22">2019/02/25 06:32</span></div><div style="padding-top: 10px;"><p class="content">방일 외국인이 늘고 있습니다만,
 무려 72%의 외국인이
-「일본인의 구취<sup>(입냄새)</sup>에 실망한 경험이 있다」
+「일본인의 구취에 실망한 경험이 있다」
 라고 대답!
 게다가 43%의 외국인이,
 「에티켓의 하나로서 일본인은 구취의 개선을 시도해야 한다」
