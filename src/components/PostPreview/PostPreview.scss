@@ -25,7 +25,7 @@
     }
 }
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    img {
+    .post-preview-cover img, .post-cover img {
         height: auto !important;
         top: -80% !important;
     }
