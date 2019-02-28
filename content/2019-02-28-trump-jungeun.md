@@ -1,0 +1,102 @@
+---
+title: 【미북정상】트럼프 대통령, 다음 정상회담 「약속 않고」
+date: 2019-02-28T15:23:00.400Z
+cover: 20190228/2019022801.jpg
+slug: 20190228-trump-jungeun
+category: 국제
+tags:
+  - 미국
+  - 북한
+backgroundPosition: 20%
+---
+<div><p class="source">출처: <a href="http://ai.2ch.sc/test/read.cgi/newsplus/1551353667/" target="_blank" rel="noopener nofollow noreferrer">http://ai.2ch.sc/test/read.cgi/newsplus/1551353667/</a></p><br><label for="twolang">일본어 같이보기</label><input type="checkbox" id="twolang"><br><br><div class="commentbox0"><div class="content1"><div class="id">1. ID: <span class="op">rNcgNXBQ9.net</span> <span title="2019/02/28(木) 20:34:27.24">2019/02/28 20:34</span></div><div style="padding-top: 10px;"><p class="content">트럼프 미 대통령과 북조선의 김정은 위원장은 28일, 2일째의 회담을 마쳤다. 비핵화 등으로 합의에 달하지 않고, 트럼프 대통령은 기자회견에서, 다음 정상회담에 대해 「약속하고있지 않다」라고 말했다.<br>
+2019/2/26 11:33 (2019/2/28 17:21 갱신)
+<a class="vglnk" href="https://www.nikkei.com/article/DGXMZO41616720S9A220C1000000/" rel="nofollow"><span>https</span><span>://</span><span>www</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>article</span><span>/</span><span>DGXMZO41616720S9A220C1000000</span><span>/</span></a>
+<a class="vglnk" href="https://vdata.nikkei.com/gif/2019/usa-northKorea-wappen-konsin.png" rel="nofollow"><span>https</span><span>://</span><span>vdata</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>gif</span><span>/</span><span>2019</span><span>/</span><span>usa</span><span>-</span><span>northKorea</span><span>-</span><span>wappen</span><span>-</span><span>konsin</span><span>.</span><span>png</span></a><br><span class="jp">トランプ米大統領と北朝鮮の金正恩委員長は28日、2日目の会談を終えた。非核化などで合意には至らず、トランプ大統領は記者会見で、次の首脳会談について「約束していない」と述べた。<br>
+2019/2/26 11:33 (2019/2/28 17:21更新)
+<a class="vglnk" href="https://www.nikkei.com/article/DGXMZO41616720S9A220C1000000/" rel="nofollow"><span>https</span><span>://</span><span>www</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>article</span><span>/</span><span>DGXMZO41616720S9A220C1000000</span><span>/</span></a>
+<a class="vglnk" href="https://vdata.nikkei.com/gif/2019/usa-northKorea-wappen-konsin.png" rel="nofollow"><span>https</span><span>://</span><span>vdata</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>gif</span><span>/</span><span>2019</span><span>/</span><span>usa</span><span>-</span><span>northKorea</span><span>-</span><span>wappen</span><span>-</span><span>konsin</span><span>.</span><span>png</span></a></span> </p></div><div class="content2"><div class="id">636. ID: <span>9rTSz1pV0.net</span> <span title="2019/03/01(金) 02:52:10.85">2019/03/01 02:52</span></div><div style="padding-top: 10px;"><p class="content">약속을 휴지조각<sup>(反故)</sup>으로 하는 것이, 조선인에게는 정의니까
+바보 일본인도 질렸지만
+일한병합에 속아, 일한기본조약에 속아, 평양선언에 속아<br><span class="jp">約束を反故にするのが、朝鮮人では正義だからね
+バカ日本人も懲りたろが
+日韓併合で騙され、日韓基本条約で騙され、平壌宣言で騙され</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">6. ID: <span>kwY/vzMg0.net</span> <span title="2019/02/28(木) 20:36:03.92">2019/02/28 20:36</span></div><div style="padding-top: 10px;"><p class="content">더 이상 만날 일 없겠지w<br><span class="jp">もう会う事ないだろうなｗ</span> </p></div><div class="content2"><div class="id">146. ID: <span>SlX4vpXS0.net</span> <span title="2019/02/28(木) 21:00:50.20">2019/02/28 21:00</span></div><div style="padding-top: 10px;"><p class="content">다음에 만나는 건 저세상에서겠지
+아니, 저세상이라도 만날 일은 없을까<br><span class="jp">次に会うのはあの世でだな
+いや、あの世でも会うことはないか</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">7. ID: <span>R5EFgk730.net</span> <span title="2019/02/28(木) 20:36:24.33">2019/02/28 20:36</span></div><div style="padding-top: 10px;"><p class="content">왜 웃는거지?
+정은은 열차 여행을 즐길 수 있었지 않은가w<br><span class="jp">なぜ笑うんだい？
+ジョンウンは列車の旅を楽しめたじゃないかw</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">8. ID: <span>aRTSLxj60.net</span> <span title="2019/02/28(木) 20:36:51.03">2019/02/28 20:36</span></div><div style="padding-top: 10px;"><p class="content">제3차 세계 대전<br><span class="jp">第三次世界大戦</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">10. ID: <span>zLeY6l/J0.net</span> <span title="2019/02/28(木) 20:37:13.93">2019/02/28 20:37</span></div><div style="padding-top: 10px;"><p class="content">시간 낭비지<br><span class="jp">時間の無駄だよな</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">11. ID: <span>1CtGbNX10.net</span> <span title="2019/02/28(木) 20:37:22.37">2019/02/28 20:37</span></div><div style="padding-top: 10px;"><p class="content">앞으로 북과 남이 어떻게 움직일지 구경거리w<br><span class="jp">今後北と南がどう動くか見物w</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">19. ID: <span>WvcYtZxX0.net</span> <span title="2019/02/28(木) 20:39:59.48">2019/02/28 20:39</span></div><div style="padding-top: 10px;"><p class="content">문재인 발광ww<br><span class="jp">文在寅発狂ｗｗ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">214. ID: <span>XLcoIFk40.net</span> <span title="2019/02/28(木) 21:16:42.01">2019/02/28 21:16</span></div><div style="padding-top: 10px;"><p class="content">거의 이라크의 후세인적인 입장이 되어가고 있으니까 말이야.
+뭐 이라크와 달리 3일도 버티지 못하겠지만, 중국 하기 나름일테지.<br><span class="jp">ほとんどイラクのフセイン的な立場になりつつあるからなあ。
+まあイラクと違って3日持たないだろうが、中国次第だろうなあ。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">220. ID: <span>dDue0YIb0.net</span> <span title="2019/02/28(木) 21:17:51.10">2019/02/28 21:17</span></div><div style="padding-top: 10px;"><p class="content">솔직히 힐러리가 아니고 트럼프여서 정말 다행이야<br><span class="jp">正直ヒラリーじゃなくてトランプで本当によかったよな</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">252. ID: <span>gYpBZOqU0.net</span> <span title="2019/02/28(木) 21:28:49.40">2019/02/28 21:28</span></div><div style="padding-top: 10px;"><p class="content">사이에 서서 균형자<sup>(balancer)</sup> 했었던 한국은 당연히 북에 미국이 어느 정도의 조건으로 연착륙시킬 셈인가 전했을 것
+그것을 북이 믿지 않았는지, <sup>(한국에게)</sup>미국이 쥐어준 정보가 틀렸었는지
+청와대는 미북회담에 상당한 자신감을 갖고 있다 라는 것은 한국측으로부터 몇가지 루트로 전해져있었기 때문에 노 딜<sup>(no deal)</sup>은 정말로 자다가 벼락<sup>(寝耳に水)</sup>의 가능성<br><span class="jp">間にたってバランサーやってた韓国は当然北に米がどの程度の条件で軟着陸させるつもりか伝えてたはず
+それを北が信じなかったのか、米に掴まされた情報が間違ってたのか
+青瓦台は米朝会談にかなりの自信を持ってるというのは韓国側からいくつかのルートで伝わってたからノーディールはまじで寝耳に水の可能性</span> </p></div><div class="content2"><div class="id">259. ID: <span>Fcc8vCO30.net</span> <span title="2019/02/28(木) 21:29:53.15">2019/02/28 21:29</span></div><div style="padding-top: 10px;"><p class="content">한국인의 자신감에 근거 따윈 있을 리가 없다<br><span class="jp">韓国人の自信に根拠などあるわけがない</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">275. ID: <span>MNgk9h3c0.net</span> <span title="2019/02/28(木) 21:35:12.48">2019/02/28 21:35</span></div><div style="padding-top: 10px;"><p class="content">트럼프는 성과가 없으면 즉시 돌아간다고 말했었지
+정말로 할줄은<br><span class="jp">トランプは成果がなかったら即帰るって言ってたよな
+本当にやるとは</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">282. ID: <span>r8UPdAJh0.net</span> <span title="2019/02/28(木) 21:39:37.77">2019/02/28 21:39</span></div><div style="padding-top: 10px;"><p class="content">3.1운동이 더욱이 홧병하겠네<br><span class="jp">3.1運動がさらにファビョるな</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">284. ID: <span>2iqmu9//0.net</span> <span title="2019/02/28(木) 21:39:59.79">2019/02/28 21:39</span></div><div style="padding-top: 10px;"><p class="content">「다음 언제 만날 수 있어?」
+「・・・다시 연락할게」<br><span class="jp">「次いつ会える？」
+「・・・また連絡する」</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">298. ID: <span>KrmZbPN40.net</span> <span title="2019/02/28(木) 21:43:40.55">2019/02/28 21:43</span></div><div style="padding-top: 10px;"><p class="content">가장 당황하고 있는것은 틀림없이 문<sup>(재인)</sup>w<br><span class="jp">一番慌てているのは間違いなく文w</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">305. ID: <span>Nkvyxvbc0.net</span> <span title="2019/02/28(木) 21:45:48.31">2019/02/28 21:45</span></div><div style="padding-top: 10px;"><p class="content">짐 로저스도 이제부터는 한국이나 조선반도의 시대가 된다 라고 말했었지.<br><span class="jp">ジムロジャーズもこれからは韓国や朝鮮半島の時代になるって言ってただろ。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">365. ID: <span>Bbw++PgZ0.net</span> <span title="2019/02/28(木) 22:20:12.22">2019/02/28 22:20</span></div><div style="padding-top: 10px;"><p class="content">매스컴은 합의에 달하지 않은 트럼프는 성과를 거두지 못하고 초조해 하고 있다 같은 보도이지만, 완전히 여유겠지.
+적당한 합의를 하고, 속아서 나중에 비판받을 바에야 합의 따위 안하는 편이 나음.
+북을 철저히 옥죄면 된다. 중공에의 견제도 된다.<br><span class="jp">マスコミは合意に至らなかったトランプは成果を挙げられず焦っている的な報道だけど、全くの余裕だろう。
+適当な合意をして、騙されて後に批判されるくらいなら合意などしない方がまし。
+北を徹底的に締め付ければ良い。中共への牽制にもなる。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">410. ID: <span>By1rPnYR0.net</span> <span title="2019/02/28(木) 22:46:46.23">2019/02/28 22:46</span></div><div style="padding-top: 10px;"><p class="content">북의 친미 군사정권과 남의 친중 문<sup>(文)</sup>정권이 되면 웃기겠네.<br><span class="jp">北の親米軍事政権と南の親中文政権になったら笑えるな。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">432. ID: <span>3YDyctcF0.net</span> <span title="2019/02/28(木) 22:58:25.65">2019/02/28 22:58</span></div><div style="padding-top: 10px;"><p class="content">북조선처럼 없어져도 아무도 곤란해하지 않는 아무도 눈치채지 못하는 5류 나라와 미국과는 입장이 다르다
+합의 등의 성과를 내지 않으면 안되는 것은 북의 돼지
+모처럼 회담에 응해 주었는데 거의 아무런 성과도 없고 이것으로 북조선은 위기적으로 되었다
+무력행사를 결의하면 회담조차 응하지 않게 된다
+고노에<sup>(고노에 후미마로, 일본제국의 총리)</sup>도 대통령<sup>(프랭클린 루스벨트)</sup>과의 정상회담을 통한 단숨의 해결을 타진하였으나
+일본측이 진전을 보이고 그런 분위기를 양성하지 않으면 응하지 않는다고 거부했다<br><span class="jp">北朝鮮みたいな無くなっても誰も困らない誰も気付かない五流国とアメリカでは立場が違う
+合意などの成果を出さなければならないのは北の豚
+せっかく会談に応じてくれたのにほぼ何らの成果も無くこれで北朝鮮は危機的になった
+武力行使を決意したら会談すら応じなくなる
+近衛も大統領との首脳会談による一気の解決を打診したが
+日本側が前進を見せてその空気を醸成しなければ応じないと拒否した</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">454. ID: <span>Lo61KBgEX</span> <span title="2019/02/28(木) 23:10:33.40">2019/02/28 23:10</span></div><div style="padding-top: 10px;"><p class="content">정은의 이번 최대 실패는, 중국경유로 하노이까지 열차로 간 것. 「중국의 지원도 있다구」라고 미국을 견제한 셈일지도 모르지만, 이것에 미국은 격노했을 것. 이래서야 미국에는 아무런 득도 없다. 그러니까 강렬한 보복을 먹여준거겠지<sup>(しっぺ返しを食らわせたんだな)</sup>w<br><span class="jp">ジョンウンの今回の最大の失敗は、中国経由でハノイまで列車で行ったこと。「中国の支援もあるぞ」とアメを牽制したつもりかもしれないが、これにアメは激怒したはず。これではアメには何の得もない。だから強烈なしっぺ返しを食らわせたんだなｗ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">462. ID: <span>7GU6tVTg0.net</span> <span title="2019/02/28(木) 23:12:34.15">2019/02/28 23:12</span></div><div style="padding-top: 10px;"><p class="content">합의따위 의미가 없다
+결렬되어 다행이야
+이것으로 조선과 전면 전쟁이다<br><span class="jp">合意なんて意味がない
+決裂して良かったよ
+これで朝鮮と全面戦争だ</span> </p></div><div class="content2"><div class="id">472. ID: <span>5Ho+a4Yj0.net</span> <span title="2019/02/28(木) 23:15:53.03">2019/02/28 23:15</span></div><div style="padding-top: 10px;"><p class="content">나도 그렇게 생각해.
+하지만 그렇게 생각하면 협상의 장을 갖는 의미조차 없네.<br><span class="jp">俺もそー思う。
+でもそう考えると交渉の場を持つ意味すら無いよね。</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">482. ID: <span>TlWzaAb60.net</span> <span title="2019/02/28(木) 23:19:40.54">2019/02/28 23:19</span></div><div style="padding-top: 10px;"><p class="content">또 북조선의 시간벌기에 이용됐을 뿐이지?
+이러는 사이에도 북조선은 핵미사일을 양산하고 있겠지?<br><span class="jp">また北朝鮮の時間稼ぎに利用されただけやろ？
+こうしてる間にも北朝鮮は核ミサイルを量産しとるんやろ？</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">484. ID: <span>XLcoIFk40.net</span> <span title="2019/02/28(木) 23:20:38.83">2019/02/28 23:20</span></div><div style="padding-top: 10px;"><p class="content">베트남 입국이 중국경유라는 것이, 이번의 회담에서의 중국의 어필이며, 교섭 결렬은 미중교섭에의 미국의 메세지에 지나지 않는다.<br><span class="jp">ベトナム入りが中国経由というのが、今回の会談での中国のアピールであり、交渉決裂は米中交渉へのアメリカのメッセージしかない。</span> </p></div><div class="content2"><div class="id">487. ID: <span>ddaEkHkN0.net</span> <span title="2019/02/28(木) 23:23:10.55">2019/02/28 23:23</span></div><div style="padding-top: 10px;"><p class="content">그렇지
+북따위 쓰레기 상대에 퍼포먼스 해봤자 의미 없어
+있다고 한다면 뒤에 있는 지나<sup>(중국)</sup>에게의 경고인 거지<br><span class="jp">だよなぁ
+北なんてゴミ相手にパフォーマンスやったって意味ないわ
+あるとすればバックに居る支那への警告だわね</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">485. ID: <span>9eoGnh/E0.net</span> <span title="2019/02/28(木) 23:20:59.47">2019/02/28 23:20</span></div><div style="padding-top: 10px;"><p class="content">You shouldn't make me angry too much.<br><span class="jp">You shouldn't make me angry too much.</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">520. ID: <span>lKEPFhXF0.net</span> <span title="2019/02/28(木) 23:42:05.12">2019/02/28 23:42</span></div><div style="padding-top: 10px;"><p class="content">문에게는 좀 더 힘내주길 바래
+남북통일후에 반도 전부 초토화 라는 것이 일본의 이상<br><span class="jp">ムンにはもっと頑張ってほしい
+南北統一後に半島全て焦土化ってのが日本の理想</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">528. ID: <span>wvP+Dgn70.net</span> <span title="2019/02/28(木) 23:45:10.11">2019/02/28 23:45</span></div><div style="padding-top: 10px;"><p class="content">그대로 북을 공폭해 주지 않겠나
+그 패들은 비핵화따위 죽어도 안할것이고<br><span class="jp">そのまま北を空爆してくれんかね
+連中は非核化なんか死んでもやらんだろし</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">543. ID: <span>+N/x4qkF0.net</span> <span title="2019/02/28(木) 23:52:58.13">2019/02/28 23:52</span></div><div style="padding-top: 10px;"><p class="content">노벨평화상 갖고 싶지 않은건가, 트럼프w<br><span class="jp">ノーベル平和賞欲しくないのか、トランプw</span> </p></div><div class="content2"><div class="id">567. ID: <span>csqD8q6s0.net</span> <span title="2019/03/01(金) 00:09:38.27">2019/03/01 00:09</span></div><div style="padding-top: 10px;"><p class="content">그런것보다　「타협하지 않아」의 자세가 중요하지 않냐. 중남미적으로.<br><span class="jp">そんなものより　「妥協しないよ」の姿勢が重要なんじゃね。中南米的に。</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">546. ID: <span>1IP8e+RE0.net</span> <span title="2019/02/28(木) 23:54:38.65">2019/02/28 23:54</span></div><div style="padding-top: 10px;"><p class="content">이로써 문정권의 남북경제협력의 꿈도 사라졌다.
+꼴 좋다.<br><span class="jp">これで文政権の南北経済協力の夢も消えた。
+ざまみろだ。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">558. ID: <span>Z72NoUWS0.net</span> <span title="2019/03/01(金) 00:02:13.19">2019/03/01 00:02</span></div><div style="padding-top: 10px;"><p class="content">조선인과의 대화라는건 무의미
+무엇을 합의해도 녀석들은 지키지 않으니까<br><span class="jp">朝鮮人との話し合いなんて無意味
+何を合意しても奴らは守らないから</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">574. ID: <span>M8232niJ0.net</span> <span title="2019/03/01(金) 00:21:23.95">2019/03/01 00:21</span></div><div style="padding-top: 10px;"><p class="content">알고있는것은 외자<sup>(외국자본)</sup>가 없으면 원<sup>(WON)</sup>으로는 아무것도 살 수 없는 빈국이 되는 금융소국인 한국이 세쌍둥이 적자(가정채무, 중소기업채무, 은행적자)를 갖고 레드존에 있는데
+일미<sup>(일본·미국)</sup>로부터 버림받아 국가 파산하는 것 뿐이다<br><span class="jp">わかっているのは外資が無いとウォンでは何も買えない貧国になる金融小国の韓国が三つ子の赤字（家庭債務、中小企業債務、銀行赤字）を持ってレッドゾーンにいるのに
+日米から見捨てられて国家破産することだけだ</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">579. ID: <span>SPe4R4te0.net</span> <span title="2019/03/01(金) 00:33:37.79">2019/03/01 00:33</span></div><div style="padding-top: 10px;"><p class="content">점심식사도 공동회견도 다음 회담의 예정도 아무것도 없다는 것은
+트럼프는 상당히 격노해 회담이 종료됐다 라는 거겠지.
+사전교섭했던 정보와는 동떨어진 요구를 받았다 라는 것.<br><span class="jp">昼飯も共同会見も次の会談の予定もなにもないということは
+トランプは相当激怒して会談が終了したということだろう。
+事前の根回しした情報とはかけ離れた要求をされたということ。</span> </p></div><div class="content2"><div class="id">580. ID: <span>J5nj7aDk0.net</span> <span title="2019/03/01(金) 00:36:37.75">2019/03/01 00:36</span></div><div style="padding-top: 10px;"><p class="content">또 한국이 적당한 걸 바람잡았던 것일까나?<br><span class="jp">また韓国がテキトーなこと吹きこんでたのかな？</span> </p></div><div class="content2"><div class="id">588. ID: <span>SPe4R4te0.net</span> <span title="2019/03/01(金) 00:40:03.28">2019/03/01 00:40</span></div><div style="padding-top: 10px;"><p class="content">아마 「핵포기를 선행할 테니 원조해 줘, 남북 평화의 종결 선언까지 해 줘,
+그러면 당신은 노벨평화상감이야.」라는 이야기가 한국이나 북조선으로부터 있어,
+막상 회담 해보니 「원조를 선행해라. 그러면 핵개발을 정지시켜 줄 게. 핵포기는 하지 않는다.」
+라는 이야기가 꺼내진것이<sup>(아닐지)</sup>.<br><span class="jp">おそらく「核放棄を先行するから援助してくれ、南北和平の終結宣言までしてくれ、
+そうしたらあんたはノーベル平和賞ものだ。」という話が韓国か北朝鮮からあって、
+いざ会談してみたら「援助を先行しろ。そうしたら核開発を停止してやる。核放棄はしない。」
+という話を持ち出されたのでは。</span> </p></div></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">585. ID: <span>3/O2Gw860.net</span> <span title="2019/03/01(金) 00:38:30.93">2019/03/01 00:38</span></div><div style="padding-top: 10px;"><p class="content">트럼프가 성과 욕심에 타협해서 합의한다 라고 예상하고 있었던 바보들은 숨쉬고있어(´･ω･｀)？<br><span class="jp">トランプが成果欲しさに妥協して合意するって予想していたバカ共は息してるの(´･ω･｀)？</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">590. ID: <span>Tbjxb0rj0.net</span> <span title="2019/03/01(金) 00:40:28.69">2019/03/01 00:40</span></div><div style="padding-top: 10px;"><p class="content">매번 이 이상한 헤어스타일의 못생긴 돼지를 사람 취급하는 것도, 귀찮겠지.
+아, 쓰고나니 어느쪽 이야기인지 모르겠네.<br><span class="jp">毎回このへんな髪型の醜いブタを人扱いするのも、面倒くさいだろ。
+あ、書いててどっちのことだか分からないな。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">601. ID: <span>6yOcb37B0.net</span> <span title="2019/03/01(金) 00:54:20.54">2019/03/01 00:54</span></div><div style="padding-top: 10px;"><p class="content">국력이 너무나도 다른데, 회담 할 수 있다고 우쭐해진 끝에 이거에요
+사스가<sup>(역시나)</sup> 조선인<br><span class="jp">国力が違いすぎるのに、会談出来ると調子に乗った挙げ句これですよ
+流石朝鮮人</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">603. ID: <span>exIlZyJf0.net</span> <span title="2019/03/01(金) 01:00:01.00">2019/03/01 01:00</span></div><div style="padding-top: 10px;"><p class="content">북조선에선 회담이 성공해 제재가 해제된다고 프로파간다 방송을 내보내고 있었다고 하지 않았나. 희망적 관측을 사실과 혼동해 뚱딴지<sup>(頓珍漢)</sup>같은 처신으로 나오는 것은 북도 남도 마찬가지네.<br><span class="jp">北朝鮮では会談が成功し制裁が解除されるとプロパガンダ放送を流してたそうじゃないか。希望的観測を事実と混同し頓珍漢な振る舞いにでるのは北も南も同じだな。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">617. ID: <span>jxQsHF8B0.net</span> <span title="2019/03/01(金) 01:48:23.36">2019/03/01 01:48</span></div><div style="padding-top: 10px;"><p class="content">1회때의 회담과 달리, 이번엔 김정은의 태도가 시종 뭔가 이상했었지
+묘하게 안절부절하고 자신없어보였다<br><span class="jp">1回目の会談と違って、今回は金正恩の態度が終始何かおかしかったな
+妙にそわそわして自信無さげだった</span> </p></div><div class="content2"><div class="id">619. ID: <span>n5h4UkH70.net</span> <span title="2019/03/01(金) 01:49:38.07">2019/03/01 01:49</span></div><div style="padding-top: 10px;"><p class="content">결국 확실히 정해져있는 항목은 없어서
+이걸로 트럼프가 해제해 줄까나 라는
+두근두근 감이 있었다고 생각해w<br><span class="jp">結局ハッキリ決まってる項目は無くて
+これでトランプが解除してくれるかなぁっていう
+ドキドキ感があったんだと思うｗ</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">618. ID: <span>soVQeTF10.net</span> <span title="2019/03/01(金) 01:49:26.12">2019/03/01 01:49</span></div><div style="padding-top: 10px;"><p class="content">미국의 한국 무시가 섬뜩하다<sup>(不気味)</sup><br><span class="jp">アメリカの韓国無視が不気味</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">622. ID: <span>K8k/j+uK0.net</span> <span title="2019/03/01(金) 01:56:04.92">2019/03/01 01:56</span></div><div style="padding-top: 10px;"><p class="content">결국 오늘의 중국도 북조선도 미국의 최종적인 지원에 기초하여 성립되어 있는 셈이며, 미국의 동의 없이는 성립할 수 없다는 것을 명확히 한 것일 뿐.<br><span class="jp">結局今日の中国も北朝鮮もアメリカの最終的な支援に基づいて成立しているわけで、アメリカの同意なくして成立し得ないという事を明確にしたってだけ。</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">629. ID: <span>GoXgB76w0.net</span> <span title="2019/03/01(金) 02:26:37.03">2019/03/01 02:26</span></div><div style="padding-top: 10px;"><p class="content">영국, 프랑스 외에, 호주, 뉴질랜드,
+게다가 스페인이나 덴마크의 해군도 지켜보고 있다.<br>
+일본의 쓰레기매스컴<sup>(マスゴミ)</sup>은, 「비핵화가 실현되기 전에 트럼프 대통령은 양보하는 것이<sup>(아닐지)</sup>?
+그것이 걱정입니다」
+↓
+춍・쓰레기매스컴<sup>(マスゴミ)</sup> 패거리의 속내 「부탁이야! 빨리 제재해제나 완화해줘!!」<br><span class="jp">イギリス、フランスの他に、オーストラリア、ニュージーランド、
+さらにスペインやデンマークの海軍も見張ってる。<br>
+日本のマスゴミは、「非核化が実現する前にトランプ大統領は譲歩するのでは？
+それが心配です」
+↓
+チョン・マスゴミ連中の本音　「お願い！　早く制裁解除か緩和して！！」</span> </p></div></div></div><div class="commentbox1"><div class="content1"><div class="id">630. ID: <span>+8/wyIiK0.net</span> <span title="2019/03/01(金) 02:27:40.16">2019/03/01 02:27</span></div><div style="padding-top: 10px;"><p class="content">전쟁이다ー<br><span class="jp">戦争だー</span> </p></div></div></div></div>
