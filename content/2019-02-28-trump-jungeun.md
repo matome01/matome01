@@ -16,7 +16,7 @@ backgroundPosition: 20%
 2019/2/26 11:33 (2019/2/28 17:21更新)
 <a class="vglnk" href="https://www.nikkei.com/article/DGXMZO41616720S9A220C1000000/" rel="nofollow"><span>https</span><span>://</span><span>www</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>article</span><span>/</span><span>DGXMZO41616720S9A220C1000000</span><span>/</span></a>
 <a class="vglnk" href="https://vdata.nikkei.com/gif/2019/usa-northKorea-wappen-konsin.png" rel="nofollow"><span>https</span><span>://</span><span>vdata</span><span>.</span><span>nikkei</span><span>.</span><span>com</span><span>/</span><span>gif</span><span>/</span><span>2019</span><span>/</span><span>usa</span><span>-</span><span>northKorea</span><span>-</span><span>wappen</span><span>-</span><span>konsin</span><span>.</span><span>png</span></a></span> </p></div><div class="content2"><div class="id">636. ID: <span>9rTSz1pV0.net</span> <span title="2019/03/01(金) 02:52:10.85">2019/03/01 02:52</span></div><div style="padding-top: 10px;"><p class="content">약속을 휴지조각<sup>(反故)</sup>으로 하는 것이, 조선인에게는 정의니까
-바보 일본인도 질렸지만
+바보 일본인도 넌덜머리났지만
 일한병합에 속아, 일한기본조약에 속아, 평양선언에 속아<br><span class="jp">約束を反故にするのが、朝鮮人では正義だからね
 バカ日本人も懲りたろが
 日韓併合で騙され、日韓基本条約で騙され、平壌宣言で騙され</span> </p></div></div></div></div><div class="commentbox1"><div class="content1"><div class="id">6. ID: <span>kwY/vzMg0.net</span> <span title="2019/02/28(木) 20:36:03.92">2019/02/28 20:36</span></div><div style="padding-top: 10px;"><p class="content">더 이상 만날 일 없겠지w<br><span class="jp">もう会う事ないだろうなｗ</span> </p></div><div class="content2"><div class="id">146. ID: <span>SlX4vpXS0.net</span> <span title="2019/02/28(木) 21:00:50.20">2019/02/28 21:00</span></div><div style="padding-top: 10px;"><p class="content">다음에 만나는 건 저세상에서겠지
