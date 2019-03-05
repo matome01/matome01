@@ -81,7 +81,8 @@
     "format:js": "prettier '**/*.{js,jsx}' --write",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "f": "npm run clean && npm run build && npm run serve",
-    "c": "git push && git checkout draft && git push"
+    "c": "git push && git checkout draft && git push",
+    "d": "npm run build && npm run serve"
   },
   "remarkConfig": {
     "plugins": [
