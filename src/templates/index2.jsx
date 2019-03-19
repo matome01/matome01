@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Layout from "../layout";
 import PostListing from "../components/PostListing";
 import SEO from "../components/SEO";
@@ -9,6 +9,7 @@ import config from "../../data/SiteConfig";
 class Index extends React.Component {
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
+    const { currentPage, numPages } = this.props.pageContext
     return (
       <Layout location={this.props.location} title="Home">
         <div className="index-container">
@@ -24,6 +25,11 @@ class Index extends React.Component {
           </Helmet>
           <SEO postEdges={postEdges} />
           <PostListing postEdges={postEdges} />
+          {Array.from({ length: numPages }, (_, i) => (
+            <Link key={`pagination-number${i + 1}`} to={`/${i === 0 ? "" : i + 1}`}>
+              {i + 1}
+            </Link>
+          ))}
         </div>
       </Layout>
     );
@@ -33,9 +39,10 @@ class Index extends React.Component {
 export default Index;
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query IndexQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      limit: 2000
+      limit: $limit
+      skip: $skip
       sort: { fields: [fields___date], order: DESC }
     ) {
       edges {
