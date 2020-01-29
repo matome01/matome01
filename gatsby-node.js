@@ -3,50 +3,6 @@ const _ = require("lodash");
 const moment = require("moment");
 const siteConfig = require("./data/SiteConfig");
 
-const postNodes = [];
-
-function addSiblingNodes(createNodeField) {
-  postNodes.sort(
-    ({ frontmatter: { date: date1 } }, { frontmatter: { date: date2 } }) => {
-      const dateA = moment(date1, siteConfig.dateFromFormat);
-      const dateB = moment(date2, siteConfig.dateFromFormat);
-
-      if (dateA.isBefore(dateB)) return 1;
-
-      if (dateB.isBefore(dateA)) return -1;
-
-      return 0;
-    }
-  );
-  for (let i = 0; i < postNodes.length; i += 1) {
-    const nextID = i + 1 < postNodes.length ? i + 1 : 0;
-    const prevID = i - 1 >= 0 ? i - 1 : postNodes.length - 1;
-    const currNode = postNodes[i];
-    const nextNode = postNodes[nextID];
-    const prevNode = postNodes[prevID];
-    createNodeField({
-      node: currNode,
-      name: "nextTitle",
-      value: nextNode.frontmatter.title
-    });
-    createNodeField({
-      node: currNode,
-      name: "nextSlug",
-      value: nextNode.fields.slug
-    });
-    createNodeField({
-      node: currNode,
-      name: "prevTitle",
-      value: prevNode.frontmatter.title
-    });
-    createNodeField({
-      node: currNode,
-      name: "prevSlug",
-      value: prevNode.fields.slug
-    });
-  }
-}
-
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
   let slug;
@@ -82,110 +38,119 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       }
     }
     createNodeField({ node, name: "slug", value: slug });
-    postNodes.push(node);
   }
 };
 
-exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
-  const { name } = type;
-  const { createNodeField } = actions;
-  if (name === "MarkdownRemark") {
-    addSiblingNodes(createNodeField);
-  }
-};
-
-exports.createPages = ({ graphql, actions }) => {
+  exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
+  const postPage = path.resolve("src/templates/post.jsx");
+  const tagPage = path.resolve("src/templates/tag.jsx");
+  const categoryPage = path.resolve("src/templates/category.jsx");
 
-  return new Promise((resolve, reject) => {
-    const postPage = path.resolve("src/templates/post.jsx");
-    const tagPage = path.resolve("src/templates/tag.jsx");
-    const categoryPage = path.resolve("src/templates/category.jsx");
-    resolve(
-      graphql(
-        `
-          {
-            allMarkdownRemark {
-              edges {
-                node {
-                  frontmatter {
-                    tags
-                    category
-                  }
-                  fields {
-                    slug
-                  }
-                }
-              }
+  const markdownQueryResult = await graphql(
+  `
+    {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
             }
-          }
-        `
-      ).then(result => {
-        if (result.errors) {
-          /* eslint no-console: "off" */
-          console.log(result.errors);
-          reject(result.errors);
-        }
-
-        const tagSet = new Set();
-        const categorySet = new Set();
-        result.data.allMarkdownRemark.edges.forEach(edge => {
-          if (edge.node.frontmatter.tags) {
-            edge.node.frontmatter.tags.forEach(tag => {
-              tagSet.add(tag);
-            });
-          }
-
-          if (edge.node.frontmatter.category) {
-            categorySet.add(edge.node.frontmatter.category);
-          }
-
-          createPage({
-            path: edge.node.fields.slug,
-            component: postPage,
-            context: {
-              slug: edge.node.fields.slug
-            }
-          });
-        });
-
-        const tagList = Array.from(tagSet);
-        tagList.forEach(tag => {
-          createPage({
-            path: `/tags/${_.kebabCase(tag)}/`,
-            component: tagPage,
-            context: {
-              tag
-            }
-          });
-        });
-
-        const categoryList = Array.from(categorySet);
-        categoryList.forEach(category => {
-          createPage({
-            path: `/categories/${_.kebabCase(category)}/`,
-            component: categoryPage,
-            context: {
+            frontmatter {
+              title
+              tags
               category
+              date  
             }
-          });
-        });
-        const posts = result.data.allMarkdownRemark.edges
-        const postsPerPage = 1000;
-        const numPages = Math.ceil(posts.length / postsPerPage)
-        Array.from({ length: numPages }).forEach((_, i) => {
-          createPage({
-            path: i === 0 ? `/` : `/${i + 1}`,
-            component: path.resolve("src/templates/index2.jsx"),
-            context: {
-              limit: postsPerPage,
-              skip: i * postsPerPage,
-              numPages,
-              currentPage: i + 1
-            }
-          })
-        })
-      })
+          }
+        }
+      }
+    }
+  `
+  );
+    if (markdownQueryResult.errors) {
+        console.error(markdownQueryResult.errors);
+        throw markdownQueryResult.errors;
+    }
+    const tagSet = new Set();
+    const categorySet = new Set();
+    const postsEdges = markdownQueryResult.data.allMarkdownRemark.edges;
+    postsEdges.sort((postA, postB) => {
+        const dateA = moment(
+          postA.node.frontmatter.date,
+          siteConfig.dateFromFormat
     );
+    const dateB = moment(
+        postB.node.frontmatter.date,
+        siteConfig.dateFromFormat
+    );
+    if (dateA.isBefore(dateB)) return 1;
+    if (dateB.isBefore(dateA)) return -1;
+
+    return 0;
   });
+
+  postsEdges.forEach((edge, index) => {
+    if (edge.node.frontmatter.tags) {
+      edge.node.frontmatter.tags.forEach(tag => {
+        tagSet.add(tag);
+      });
+    }
+
+    if (edge.node.frontmatter.category) {
+      categorySet.add(edge.node.frontmatter.category);
+    }
+
+    const nextID = index + 1 < postsEdges.length ? index + 1 : 0;
+    const prevID = index - 1 >= 0 ? index - 1 : postsEdges.length - 1;
+    const nextEdge = postsEdges[nextID];
+    const prevEdge = postsEdges[prevID];
+
+    createPage({
+      path: edge.node.fields.slug,
+      component: postPage,
+      context: {
+        slug: edge.node.fields.slug,
+        nexttitle: nextEdge.node.frontmatter.title,
+        nextslug: nextEdge.node.fields.slug,
+        prevtitle: prevEdge.node.frontmatter.title,
+        prevslug: prevEdge.node.fields.slug
+      }
+    });
+  });
+
+  tagSet.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag)}/`,
+      component: tagPage,
+      context: {
+        tag
+      }
+    });
+  });
+  categorySet.forEach(category => {
+    createPage({
+      path: `/categories/${_.kebabCase(category)}/`,
+      component: categoryPage,
+      context: {
+        category
+      }
+    });
+  });
+  //added by Hur
+  const posts = postsEdges;
+  const postsPerPage = 1000;
+  const numPages = Math.ceil(posts.length / postsPerPage)
+  Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+      path: i === 0 ? `/` : `/${i + 1}`,
+      component: path.resolve("src/templates/index2.jsx"),
+      context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1
+      }
+      })
+  })
 };
