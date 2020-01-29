@@ -53,7 +53,7 @@ export default class PostTemplate extends React.Component {
     const expanded = !mobile;
     const postOverlapClass = mobile ? "post-overlap-mobile" : "post-overlap";
     const postNode = this.props.data.markdownRemark;
-    const post = postNode.frontmatter;
+    const post = postNode.frontmatter; 
     if (!post.id) {
       post.id = slug;
     }
