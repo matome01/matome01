@@ -14,8 +14,8 @@ const config = {
   postDefaultCategoryID: null, // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "YYYY/MM/DD", // Date format for display.
-  userName: "Material User", // Username to display in the author segment.
-  userEmail: "MaterialUser@example.com", // Email used for RSS feed's author segment
+  userName: "Matome Admin", // Username to display in the author segment.
+  userEmail: "matomeadmin@example.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "North Pole, Earth", // User location to display in the author segment.
   userAvatar: "/logos/blob-shape.svg", // User avatar to display in the author segment.
@@ -34,7 +34,7 @@ const config = {
       iconClassName: "fa fa-envelope"
     }*/
   ],
-  copyright: "Copyright © 2019" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2020" // Copyright string for the footer of the website and RSS feed.
 };
 // Validate
 // Make sure pathPrefix is empty if not needed
