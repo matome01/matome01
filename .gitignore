@@ -47,7 +47,6 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
-
 # Build Files
 public/
 .cache/
@@ -63,3 +62,6 @@ json_files
 
 #yarn.lock
 yarn.lock
+
+gatsby-node2.js
+gatsby-node_original.js

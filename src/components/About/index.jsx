@@ -20,14 +20,14 @@ class About extends Component {
             />
             <CardText>
               <p className="about-text md-body-1">{config.userDescription}</p>
-              <input type="checkbox" id="reverse" /><span id="asdf">가나다라마바사</span><div id="zxcv">아자차카타파하</div><div id="qwer">아야어여오요우유으이</div><div id="wert">あいうえおかきくけこ</div>
+              {/* <input type="checkbox" id="reverse" /><span id="asdf">가나다라마바사</span><div id="zxcv">아자차카타파하</div><div id="qwer">아야어여오요우유으이</div><div id="wert">あいうえおかきくけこ</div>
               <p>c<span className="hidden_">a</span>oca<span className="hidden_">a</span>usi<span className="hidden_">a</span>an bo<span className="hidden_">a</span>lle
               <span className="hidden_">a</span>ay his<span className="hidden_">a</span>tan<span className="hidden_">a</span>tr<span className="hidden_">a</span>y o<span className="hidden_">a</span>mp
               <span className="hidden_">a</span>oko<span className="hidden_">a</span>ka</p>
               <p><span>horo</span><span className="hidden_">a</span><span>morp</span><span className="hidden_">a</span><span>ha an</span><span className="hidden_">a</span>
               <span>de</span><span className="hidden_">a</span><span>ius geve</span><span className="hidden_">a</span>
               <span>qi</span><span className="hidden_">a</span><span>sh xo</span><span className="hidden_">a</span><span>ph</span><span className="hidden_">a</span><span>ia</span></p>
-              <Test />
+              <Test /> */}
             </CardText>
             <UserLinks labeled config={config} />
           </div>
