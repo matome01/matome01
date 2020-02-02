@@ -139,7 +139,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   });
   //added by Hur
   const posts = postsEdges;
-  const postsPerPage = 10;
+  const postsPerPage = 11;
   const numPages = Math.ceil(posts.length / postsPerPage)
   Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
