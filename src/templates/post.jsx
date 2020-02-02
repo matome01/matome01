@@ -16,11 +16,6 @@ import config from "../../data/SiteConfig";
 import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
-import Postbody from "../components/Mycustom/Postbody"
-const importLast = r => r(r.keys()[r.keys().length - 1])
-const targetJson = importLast(require.context("../../json_files/", false, /\.json$/))
-/* import targetJson from "../../json_files/20190217.json" */
-
 export default class PostTemplate extends React.Component {
   constructor(props) {
     super(props);
@@ -83,8 +78,6 @@ export default class PostTemplate extends React.Component {
                 <h1 className="md-display-2 post-header">{post.title}</h1>
                 <PostInfo postNode={postNode} />
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-                <h1>=====</h1>
-                <Postbody targetJson={targetJson}/>
               </CardText>
               <div className="post-meta">
                 <PostTags tags={post.tags} />
