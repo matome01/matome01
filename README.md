@@ -5,4 +5,4 @@
 ### PWA (Progressive Web App)
 * Offline support
 * Responsive design
-
+* Web app manifest
