@@ -10,6 +10,3 @@
 
 #### PC
 <img src="docs/pc1.png" width="840"/>
-
-
-
