@@ -27,7 +27,7 @@ class Navigation extends Component {
         ))}</div>}
       >
         <div className="main-container">{children}</div>
-        <Footer userLinks={footerLinks} />
+        <Footer userLinks={footerLinks} numPages={this.props.numPages}/>
       </NavigationDrawer>
     );
   }

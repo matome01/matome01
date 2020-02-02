@@ -15,6 +15,13 @@ class Footer extends Component {
     }
     return (
       <footer className={fixedFooter ? "footer footer-fixed" : "footer"}>
+        <div className="pagination">
+          {Array.from({ length: this.props.numPages }, (_, i) => (
+            <Link key={`pagination-number${i + 1}`} to={`/${i === 0 ? "" : i + 1}`} activeClassName="active" className="md-title--toolbar">
+              {i + 1}
+            </Link>
+          ))}
+        </div>
         {userLinks ? <UserLinks config={config} labeled /> : null}
         <div className="notice-container">
           <div className="copyright">
